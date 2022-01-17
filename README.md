@@ -7,12 +7,14 @@ I was brought in to help Steve make a few analyzations for his parents on some s
 results before refactoring 
 2017
 ![Screen Shot 2022-01-16 at 9 21 09 PM](https://user-images.githubusercontent.com/93777016/149706667-3b51d3dd-5537-4df1-bfb3-fd682c0e94b0.png)
+
 2018
 ![Screen Shot 2022-01-16 at 9 19 22 PM](https://user-images.githubusercontent.com/93777016/149706683-73ac1fd6-5ec7-48cb-8c01-b80d56351a34.png)
 
 results after refactoring 
 2017
 ![Screen Shot 2022-01-16 at 9 30 30 PM](https://user-images.githubusercontent.com/93777016/149706728-26db46d5-9865-4730-b09c-28b5b43ab56e.png)
+
 2018
 ![Screen Shot 2022-01-16 at 9 30 14 PM](https://user-images.githubusercontent.com/93777016/149706732-99663d5b-1b12-4664-b514-dde251e487e2.png)
 
